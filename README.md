@@ -7,11 +7,11 @@
 * Add a script, language and voice in the D-ID Studio. (Only 10 words are allowed in the studio)
 * If you need to add more words(script) and choose your desired voice options, click the API documentation in the sidebar.
 * First, Generate your API Key and use Postman to do Basic authentication for creating your own face digital human avatar
-* Then, to create a final digital avatar, the API request is sent using Postman by using the below JSON Script.
+* Then, to create a final digital avatar, the API request is sent using Postman by using the JSON Script.
 * The API id to create a talk: https://api.d-id.com/talks
 * The API id to create a streams: https://api.d-id.com/talks/streams/{id}/sdp
 * The API id to create an animation: https://api.d-id.com/animations
-* The JSON Script used to create the digital human avatar using D-ID and Postman
+* The JSON Script used to create the digital human avatar using D-ID and Postman is given below:
 * "script": {
 *   "type": "text",
 *   "provider": {
