@@ -12,15 +12,15 @@
 * The API id to create a streams: https://api.d-id.com/talks/streams/{id}/sdp
 * The API id to create an animation: https://api.d-id.com/animations
 * "script": {
-*     "type": "text",
-*     "provider": {
-*       "type": "elevenlabs",
-*         "voice_id": "ThT5KcBeYPX3keUQqHPh"
-*         }
-*       },
-*     "config": {
-*     "stitch": true
-*      “mute”: false
+*   "type": "text",
+*   "provider": {
+*   "type": "elevenlabs",
+*   "voice_id": "ThT5KcBeYPX3keUQqHPh"
+*   }
+* },
+*  "config": {
+*    "stitch": true
+*    “mute”: false
 *    },
 *  "source_url":"https://create-images-results.d-id.com/google-oauth2%7C118122142916479891130/upl_vdo6WuNqxcNhdmVnMxJvq/image.jpeg"
 *   "webhook": https://host.domain.tld/to/webhook
