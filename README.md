@@ -22,7 +22,7 @@
 *    "stitch": true
 *    “mute”: false
 *    },
-*  "source_url":"[https://create-images-results.d-id.com/google-oauth2%7C118122142916479891130/upl_vdo6WuNqxcNhdmVnMxJvq/image.jpeg](https://create-images-results.d-id.com/auth0%7C64c61bcadb36f528249bc4e3/upl_oyd1CndAxMTnV4IxeH0e9/image.png)"
+*  "source_url":"https://create-images-results.d-id.com/auth0%7C64c61bcadb36f528249bc4e3/upl_oyd1CndAxMTnV4IxeH0e9/image.png"
 *   "webhook": https://host.domain.tld/to/webhook
 *   "driver_url": "bank://lively"
 *   "driver_url": "bank://nostalgia/"
