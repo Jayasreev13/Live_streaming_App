@@ -11,6 +11,7 @@
 * The API id to create a talk: https://api.d-id.com/talks
 * The API id to create a streams: https://api.d-id.com/talks/streams/{id}/sdp
 * The API id to create an animation: https://api.d-id.com/animations
+* The JSON Script used to create the digital human avatar using D-ID and Postman
 * "script": {
 *   "type": "text",
 *   "provider": {
